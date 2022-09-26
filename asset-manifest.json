@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Tweets-Harvester-Deploy/static/css/main.ed8c3a21.css",
-    "main.js": "/Tweets-Harvester-Deploy/static/js/main.ea24aab9.js",
+    "main.js": "/Tweets-Harvester-Deploy/static/js/main.d90f5297.js",
     "static/js/787.c3ee6942.chunk.js": "/Tweets-Harvester-Deploy/static/js/787.c3ee6942.chunk.js",
     "index.html": "/Tweets-Harvester-Deploy/index.html",
     "main.ed8c3a21.css.map": "/Tweets-Harvester-Deploy/static/css/main.ed8c3a21.css.map",
-    "main.ea24aab9.js.map": "/Tweets-Harvester-Deploy/static/js/main.ea24aab9.js.map",
+    "main.d90f5297.js.map": "/Tweets-Harvester-Deploy/static/js/main.d90f5297.js.map",
     "787.c3ee6942.chunk.js.map": "/Tweets-Harvester-Deploy/static/js/787.c3ee6942.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed8c3a21.css",
-    "static/js/main.ea24aab9.js"
+    "static/js/main.d90f5297.js"
   ]
 }
